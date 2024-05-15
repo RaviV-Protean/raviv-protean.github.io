@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "VaccinationCredential": {
-      "@id": "https://raviv-protean.github.io/credentialing/vaccination-context.json#VaccinationCredential"
+      "@id": "https://raviv-protean.github.io/vaccination-context.json#VaccinationCredential"
     },
     "dob": "schema:birthDate",
     "fullName": "schema:name",
